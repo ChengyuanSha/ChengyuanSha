@@ -1,6 +1,6 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&&theme=swift)](https://github.com/ChengyuanSha)
+[![Chengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&&theme=swift)](https://github.com/ChengyuanSha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&layout=compact&theme=swift)](https://github.com/ChengyuanSha)
 
