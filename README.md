@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
