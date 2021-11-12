@@ -2,9 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
