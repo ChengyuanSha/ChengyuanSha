@@ -1,6 +1,6 @@
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&show_icons&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha)](https://github.com/anuraghazra/github-readme-stats)
 
