@@ -1,14 +1,15 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+* 🎓   B.S. in Biomedical Computing, M.Sc in Computer Science.
+* 🧐   Interested in software development, data analytics, AI in healthcare. 
+* 🌱   Currently learning Leetcode, React.
+* 📫   How to reach me: by email 15cs69 at queensu dot ca.
+
 [![Chengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&&theme=swift)](https://github.com/ChengyuanSha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&layout=compact&theme=swift)](https://github.com/ChengyuanSha)
 
 [![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha&theme=swift)](https://github.com/ChengyuanSha)
-
-
-
-
 
 
 <!--
