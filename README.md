@@ -2,7 +2,7 @@
 
 * 🎓   B.S. in Biomedical Computing, M.Sc in Computer Science.
 * 🧐   Interested in software development, data analytics, AI in healthcare. 
-* 🌱   Currently learning Leetcode, React.
+* 🌱   Currently learning React, practicing Leetcode.
 * 📫   How to reach me: by email 15cs69 at queensu dot ca.
 
 [![Chengyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengyuanSha&&theme=swift)](https://github.com/ChengyuanSha)
