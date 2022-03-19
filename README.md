@@ -1,5 +1,7 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChengyuanSha&label=Profile%20views&color=0e75b6&style=flat" alt="ChengyuanSha" /> </p>
+
 * 🎓   B.S. in Biomedical Computing, M.Sc in Computer Science.
 * 🧐   Interested in software development, data analytics, AI in healthcare. 
 * 🌱   Currently learning React, practicing Leetcode.
