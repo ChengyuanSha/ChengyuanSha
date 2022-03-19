@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChengyuanSha&label=Profile%20views&color=0e75b6&style=flat" alt="ChengyuanSha" /> </p>
 
 * 🎓   B.S. in Biomedical Computing, M.Sc in Computer Science.
-* 🧐   Interested in software development, data analytics, AI in healthcare. 
+* 🧐   Interested in software/full stack development, data analytics, AI in healthcare. 
 * 🌱   Currently learning React, practicing Leetcode.
 * 📫   How to reach me: by email 15cs69 at queensu dot ca.
 
