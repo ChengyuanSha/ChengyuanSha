@@ -4,6 +4,7 @@
 
 * 🎓   B.S. in Biomedical Computing, M.Sc in Computer Science.
 * 🧐   Interested in software/full stack development, data analytics, AI in healthcare. 
+* 🔭   Looking for Software Engineer, Python Developer, Data Engineer job 2022 Fall.  
 * 🌱   Currently learning React.js, practicing Leetcode.
 * 📫   How to reach me: by email 15cs69 at queensu dot ca.
 
