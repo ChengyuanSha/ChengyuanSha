@@ -22,9 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengyuanSha&hide=jupyter%20notebook&layout=compact&theme=swift)](https://github.com/ChengyuanSha)
 
-[![Chengyuan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChengyuanSha&theme=swift)](https://github.com/ChengyuanSha)
-
-
 <!--
 **ChengyuanSha/ChengyuanSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
